@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Source1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/Source/OwlCarousel2-2.3.4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/bootstrap-4.4.1-dist.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/Flaticon.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/sass.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/Magnific-Popup-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/elegant_font.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/jquery-ui-1.12.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/font-awesome-4.7.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/jquery-nice-select-1.1.0.zip!/" />
+      <root url="jar://$PROJECT_DIR$/web/Source/SlickNav-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
