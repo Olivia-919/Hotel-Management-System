@@ -129,7 +129,7 @@ public class RoomInfoServlet extends HttpServlet {
            fileName= UUID.randomUUID()+suffName;
            req.setAttribute("fileName",fileName);
            //真实上传到的文件地址  注意文件夹存在
-           String basePath="D:\\images";
+           String basePath="/images";
            File f=new File(basePath);
            if(!f.exists()){
                f.mkdirs();
